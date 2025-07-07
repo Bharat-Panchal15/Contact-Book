@@ -8,7 +8,7 @@ A command-line contact management system built using Python. This app allows use
 
 - Add new contacts with name, email, and phone
 - View all saved contacts
-- Search contacts by name/email
+- Search contacts by name/email/phone number
 - Update contact details
 - Delete contacts
 - RegEx validation for:
