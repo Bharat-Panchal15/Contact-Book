@@ -36,6 +36,13 @@ A command-line contact management system built using Python. This app allows use
 
 ---
 
+## 👤 Author
+
+**Bharat Panchal**  
+[GitHub Profile](https://github.com/Bharat-Panchal15)
+
+---
+
 ## ▶️ How to Run
 
 ```bash
